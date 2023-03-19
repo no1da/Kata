@@ -1,0 +1,3 @@
+class HetTakoyOperaciiException extends Exception {
+
+}
